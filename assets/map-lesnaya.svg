@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500" role="img" aria-labelledby="t">
+<title id="t">Схема: Стоматология на Лесной, ул. Лесная, 10, Ярославль</title>
+<rect width="800" height="500" fill="#e8efee"/>
+<path d="M-20 440 C120 410 230 465 380 440 S650 395 820 420 L820 520 L-20 520Z" fill="#c9dfe6"/>
+<path d="M-20 440 C120 410 230 465 380 440 S650 395 820 420" fill="none" stroke="#b3cfda" stroke-width="3"/>
+<path d="M560 40 h160 q40 0 40 40 v110 q0 40 -40 40 h-120 q-40 0 -40 -40z" fill="#d3e5d6"/>
+<g fill="#d8e0df">
+<rect x="40" y="40" width="130" height="90" rx="6"/><rect x="40" y="150" width="130" height="80" rx="6"/>
+<rect x="40" y="260" width="130" height="80" rx="6"/><rect x="40" y="360" width="130" height="50" rx="6"/>
+<rect x="210" y="40" width="150" height="90" rx="6"/><rect x="210" y="150" width="150" height="80" rx="6"/>
+<rect x="210" y="260" width="150" height="80" rx="6"/><rect x="210" y="360" width="150" height="50" rx="6"/>
+<rect x="440" y="260" width="120" height="80" rx="6"/><rect x="440" y="360" width="120" height="50" rx="6"/>
+<rect x="620" y="260" width="140" height="80" rx="6"/><rect x="440" y="150" width="90" height="80" rx="6"/>
+<rect x="440" y="40" width="90" height="90" rx="6"/>
+</g>
+<g fill="none" stroke="#ffffff" stroke-linecap="round">
+<path d="M-20 240 L820 240" stroke-width="16"/>
+<path d="M400 -20 L400 460" stroke-width="16"/>
+<path d="M190 -20 L190 460" stroke-width="10"/>
+<path d="M-20 140 L820 140" stroke-width="10"/>
+<path d="M-20 350 L820 350" stroke-width="10"/>
+<path d="M590 -20 L590 460" stroke-width="8"/>
+</g>
+<path id="st" d="M-20 240 L820 240" fill="none"/>
+<text font-family="Arial, sans-serif" font-size="14" fill="#4d5a5b"><textPath href="#st" startOffset="6%">ул. Лесная</textPath></text>
+<text x="0" y="0" font-family="Arial, sans-serif" font-size="13" fill="#4d5a5b" transform="translate(414 100) rotate(-90)">пр-т Победы</text>
+<g transform="translate(400 240)">
+<circle r="34" fill="#0d6b70" opacity=".18"/>
+<path d="M0 22 C-24 -8 -20 -40 0 -40 C20 -40 24 -8 0 22Z" fill="#0d6b70" stroke="#fff" stroke-width="3"/>
+<circle cy="-18" r="7" fill="#fff"/>
+</g>
+<g font-family="Arial, sans-serif">
+<rect x="428" y="188" width="170" height="36" rx="5" fill="#fff"/>
+<text x="442" y="212" font-size="18" font-weight="700" fill="#1b2526">ул. Лесная, 10</text>
+<g transform="translate(748 48)"><circle r="20" fill="#fff"/><path d="M0 -13 L6 5 L0 1 L-6 5Z" fill="#0d6b70"/><text y="-24" text-anchor="middle" font-size="12" fill="#4d5a5b">С</text></g>
+</g>
+</svg>
